@@ -1,0 +1,233 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #757575;
+}
+
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #000000;
+    text-decoration: none;
+}
+
+span {
+    color: #2196F3;
+}
+
+.nav-list-link { 
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #212121
+}
+
+.nav-list-link:active,
+.nav-list-link:hover,
+.nav-list-link:focus { 
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    color: #2196F3
+}
+.nav-list-item {
+    list-style: none;
+}
+
+.contact-list-item {
+    list-style: none;
+}
+
+.contact-email,
+.contact-tel {
+    text-decoration:none;
+    color: #757575;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+
+.contact-email:hover,
+.conact-email:focus,
+.contact-email:active,
+.contact-tel:hover,
+.contact-tel:focus,
+.contact-tel:active {
+    color:#2196F3
+}
+
+.hero {
+    background-color: #2F303A;
+}
+.hero-title {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 696px;
+    height: 120px;
+    left: 452px;
+    top: 280px;
+}
+
+.hero-btn {
+    background-color: #2196F3;
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.88;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+}
+
+.advantage-list {
+    list-style: none;
+}
+
+.adv-item-title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+
+.adv-item-description {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em
+}
+
+.service-list-item {
+    list-style: none;
+}
+
+.team-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.team-list-item {
+    list-style: none;
+}
+
+.team-item-name {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #212121;
+}
+
+.team-item-role {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+}
+
+footer {
+    background-color: #2F303A;
+}
+
+span.alt-logo-color {
+    color: #FFFFFF;
+}
+
+.adress-list-item {
+    list-style: none;
+}
+
+.footer-email {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+}
+
+.footer-tel {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+}
+
+.footer-address {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+/*-----------------Portfolio-page-main-------------*/
+
+.filtr-list-item {
+    list-style: none;
+}
+
+.filtr-btn {
+    font-family: inherit;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+    background: #F5F4FA
+}
+
+.filtr-btn:active {
+    color: #FFFFFF;
+    background: #2196F3;
+}
+
+.project-list-item {
+    list-style: none;
+}
+
+.project-name {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121
+}
+
+.project-category {
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
